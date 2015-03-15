@@ -1,0 +1,13 @@
+{
+	"title"		:	"Zombie++", 
+	"type"		:	"effects", 
+	"tags"		:	["roleplay"], 
+	"ignore"	:
+	[
+		"*.jpg", 
+		"*.xcf", 
+		"*.png",
+		"*.bat",
+		"*.gma"
+	]
+}
